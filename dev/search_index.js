@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = Tango","category":"page"},{"location":"#Tango","page":"Home","title":"Tango","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for Tango.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [Tango]","category":"page"},{"location":"#Tango.numderiv","page":"Home","title":"Tango.numderiv","text":"numderiv(f, x_0, epsilon = 1e-7)\n\nReturn the approximate derivative of f(x) at x_0\n\n\n\n\n\n","category":"function"}]
+}
